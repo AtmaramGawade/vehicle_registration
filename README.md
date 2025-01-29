@@ -1,9 +1,11 @@
-# React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚗 Blockchain Vehicle Registration using React.js
 
-Currently, two official plugins are available:
+A decentralized vehicle registration system built using **React.js** and a **simple blockchain implementation**. Users can **sign up, log in, register vehicles, and verify records** securely on a blockchain.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# vehicle_registration
+## 🔥 Features
+✅ **Blockchain-powered** vehicle registration  
+✅ **Signup & Login Authentication** (Local Storage)  
+✅ **Vehicle Lookup & Ownership Verification**  
+✅ **Blockchain Integrity Check**  
+✅ **Modern UI with Animations**  
